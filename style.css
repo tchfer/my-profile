@@ -8,7 +8,6 @@
   flex-direction: column;
   align-items: center;
   background-color: #222222;
-  height: 900px;
   width: 7%;
   color: #fff;
 }
@@ -42,6 +41,11 @@ i:hover {
   color: #1974E2;
 }
 
-.profile-information {
-  margin: 20px;
+.section {
+  margin-left: 20px;
+}
+
+p {
+  margin: 10px;
+  text-align: justify;
 }
