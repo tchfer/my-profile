@@ -37,3 +37,7 @@ body {
 i {
   margin-top: 60px;
 }
+
+i:hover {
+  color: #1974E2;
+}
