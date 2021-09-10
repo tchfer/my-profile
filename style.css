@@ -14,13 +14,13 @@
 }
 
 .profile-content {
-  background-color: #444444;
+  background-color: #1974E2;
   color: #fff;
   text-align: center;
 }
 
 img {
-  margin-top: 20px;
+  margin-top: 50px;
   width: 60%;
   border-radius: 50%;
 }
@@ -40,4 +40,8 @@ i {
 
 i:hover {
   color: #1974E2;
+}
+
+.profile-information {
+  margin: 20px;
 }
