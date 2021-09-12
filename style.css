@@ -1,6 +1,11 @@
 .parent-container {
   display: flex;
-
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 10;
 }
 
 .side-nav {
@@ -35,6 +40,7 @@ body {
 
 i {
   margin-top: 60px;
+  font-size: 30px
 }
 
 i:hover {
