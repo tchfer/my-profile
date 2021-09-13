@@ -94,7 +94,6 @@ section {
 
 section:hover {
   border: 3px solid #E5515A;
-  
 }
 
 section:nth-child(5) {
@@ -102,7 +101,7 @@ section:nth-child(5) {
 }
 
 a:visited { 
-  text-decoration: none; 
+  text-decoration: none;
   color: #fff;
 }
 
@@ -113,4 +112,13 @@ footer, p {
 
 #footer-icon{
   margin: 10px 0;
+}
+
+#linkedin, a {
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+#github {
+  margin-left: 5px;
 }
