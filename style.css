@@ -117,8 +117,31 @@ footer, p {
 #linkedin, a {
   margin-right: 5px;
   text-decoration: none;
+  color: #fff;
 }
 
 #github {
   margin-left: 5px;
+}
+
+::selection {
+  background-color: #E5515A;
+  color: #fff;
+}
+
+table {
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid #E5515A;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+
+th {
+  text-align: left;
 }
